@@ -1,4 +1,4 @@
-# Frontend Mentor - Challange name
+# Frontend Mentor - Recipe page
 
 ## Overview
 
