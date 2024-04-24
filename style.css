@@ -100,7 +100,7 @@ figure {
   border-radius: 1.2rem;
 }
 
-.recipe-preparation h3 {
+.recipe-preparation div {
   color: var(--dark-raspberry);
   font-weight: 600;
   font-size: 2rem;
