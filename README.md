@@ -6,11 +6,11 @@
 
 #### Desktop
 
-![](Screenshot)
+![](./design/desktop-design.png)
 
 #### Mobile
 
-![](Screenshot)
+![](./design/mobile-design.png)
 
 ### Links
 
