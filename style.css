@@ -60,7 +60,9 @@ ol {
 li {
   padding-left: 1.6rem;
 }
+ul li::marker,
 ol li::marker {
+  color: var(--brandy-red);
   font-weight: bold;
 }
 
