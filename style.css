@@ -11,9 +11,12 @@
   --font-secondary: "Young Serif", serif;
 }
 
-* {
+*,
+*::before,
+*::after {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 html {
@@ -128,13 +131,13 @@ figure {
   color: var(--brandy-red);
 }
 
-@media screen and (min-width: 481px) {
+@media screen and (min-width: 30rem) {
   figure {
     height: 30rem;
   }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 48rem) {
   body {
     background-color: var(--eggshell);
   }
