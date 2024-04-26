@@ -156,6 +156,10 @@ figure {
     margin: 12.3rem;
   }
 
+  .text-content {
+    padding: 4rem 0;
+  }
+
   .top-img {
     border-radius: 1.2rem;
   }
