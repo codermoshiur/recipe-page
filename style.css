@@ -74,10 +74,6 @@ hr {
   border-bottom: 0.1rem solid var(--white-coffee);
 }
 
-figure {
-  margin: 0;
-}
-
 .top-img {
   max-width: 100%;
 }
